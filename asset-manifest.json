@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/egomson/static/css/main.1726d972.chunk.css",
+    "main.js": "/egomson/static/js/main.18ed6031.chunk.js",
+    "main.js.map": "/egomson/static/js/main.18ed6031.chunk.js.map",
+    "runtime-main.js": "/egomson/static/js/runtime-main.ec3f0219.js",
+    "runtime-main.js.map": "/egomson/static/js/runtime-main.ec3f0219.js.map",
+    "static/css/2.150d169a.chunk.css": "/egomson/static/css/2.150d169a.chunk.css",
+    "static/js/2.288d997c.chunk.js": "/egomson/static/js/2.288d997c.chunk.js",
+    "static/js/2.288d997c.chunk.js.map": "/egomson/static/js/2.288d997c.chunk.js.map",
+    "index.html": "/egomson/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/egomson/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.1726d972.chunk.css.map": "/egomson/static/css/main.1726d972.chunk.css.map",
+    "static/js/2.288d997c.chunk.js.LICENSE.txt": "/egomson/static/js/2.288d997c.chunk.js.LICENSE.txt",
+    "static/media/headshot.838adc51.jpg": "/egomson/static/media/headshot.838adc51.jpg",
+    "static/media/logo.e1a251f9.svg": "/egomson/static/media/logo.e1a251f9.svg",
+    "static/media/pattern.b0049922.png": "/egomson/static/media/pattern.b0049922.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec3f0219.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.288d997c.chunk.js",
+    "static/css/main.1726d972.chunk.css",
+    "static/js/main.18ed6031.chunk.js"
+  ]
+}
