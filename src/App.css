@@ -1,38 +1,39 @@
-.App {
-  text-align: center;
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,300i,400,700');
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Charmonman:wght@400;700&family=Lato:wght@400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: "Lato", sans-serif !important;
+	font-weight: 900 !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.cta .cta-button {
+	color: #5b3263;
+	text-transform: uppercase;
+	border: 2px solid #5b3263;
+	border-radius: 50px;
+	background: white;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.cta .cta-button:hover, .cta .cta-button:focus {
+		box-shadow: 0 5px 11px 0 rgba(0, 0, 0, 0.18), 0 4px 14px 1px rgba(0, 0, 0, 0.15);
+		background-color: #5b3263;
+		color: white;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.portfolio-bg {
+	background: white
 }
 
-.App-link {
-  color: #61dafb;
+.btn-outline-primary {
+	color: #5b3263 !important;
+	border-color: #5b3263 !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.btn-outline-primary:hover {
+	color: #fff !important;
+	border-color: #5b3263 !important;
+	background: #5b3263 !important;
 }
